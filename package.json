@@ -1,0 +1,15 @@
+{
+  "name": "decentralized_autonomous_research_organization",
+  "version": "1.0.0",
+  "description": "- Create a decentralized platform where researchers can collaborate, fund projects, and share knowledge in a trustless environment. Implement features such as peer review, grant distribution, and intellectual property management using smart contracts.\r - Facilitate incentivized contributions and quality assessment mechanisms to ensure the integrity of research outputs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
